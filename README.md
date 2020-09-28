@@ -9,4 +9,4 @@ mPaaS 是源于支付宝的移动开发平台，目前其保持了与支付宝�
 同时，你也可以在你认可的 issue 下留言，进一步贡献想法，集思广益。我们会根据 issue 的评论数进行优先级排序，排期完善我们的产品。
 
 ## 文档
-[立即查看 mPaaS 官方文档](https://help.aliyun.com/document_detail/49549.html?spm=a2c4g.11186623.6.541.2b496bc9IGLOXq)
+[立即查看 mPaaS 官方文档](https://help.aliyun.com/product/49548.html)
